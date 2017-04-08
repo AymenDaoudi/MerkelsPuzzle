@@ -1,0 +1,7 @@
+C:\Users\Aymen\Documents\Visual Studio 2017\Projects\MerkelsPuzzle_2ndScenario\MerkelsPuzzle\bin\Debug\MerkelsPuzzle_2ndScenario.exe.config
+C:\Users\Aymen\Documents\Visual Studio 2017\Projects\MerkelsPuzzle_2ndScenario\MerkelsPuzzle\bin\Debug\MerkelsPuzzle_2ndScenario.exe
+C:\Users\Aymen\Documents\Visual Studio 2017\Projects\MerkelsPuzzle_2ndScenario\MerkelsPuzzle\bin\Debug\MerkelsPuzzle_2ndScenario.pdb
+C:\Users\Aymen\Documents\Visual Studio 2017\Projects\MerkelsPuzzle_2ndScenario\MerkelsPuzzle\bin\Debug\System.ValueTuple.dll
+C:\Users\Aymen\Documents\Visual Studio 2017\Projects\MerkelsPuzzle_2ndScenario\MerkelsPuzzle\obj\Debug\MerkelsPuzzle_2ndScenario.csprojResolveAssemblyReference.cache
+C:\Users\Aymen\Documents\Visual Studio 2017\Projects\MerkelsPuzzle_2ndScenario\MerkelsPuzzle\obj\Debug\MerkelsPuzzle_2ndScenario.exe
+C:\Users\Aymen\Documents\Visual Studio 2017\Projects\MerkelsPuzzle_2ndScenario\MerkelsPuzzle\obj\Debug\MerkelsPuzzle_2ndScenario.pdb
